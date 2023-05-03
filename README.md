@@ -2,6 +2,8 @@
 
 This guide will help you use the Intel RealSense D435 camera in ROS2 and visualize the RGB and depth point cloud in RViz2. It also covers using RTAB-Map for mapping and localization with the Intel RealSense D435 camera.
 
+![d435_rtab_map_ros2](https://user-images.githubusercontent.com/10414639/235929547-3d66fd5e-9480-4d94-b9de-a8a292b18243.png)
+
 ## Prerequisites
 
 You need to have the following packages installed:
